@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdulwahiid
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Express JS
 
 
 <!---
